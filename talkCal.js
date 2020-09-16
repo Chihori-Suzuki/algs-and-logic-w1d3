@@ -1,3 +1,10 @@
+/**
+ * 
+ * Still thinking....
+ * It's out of support in JS date format...
+ * 
+ */
+
 const talkingCalendar = function(date) {
     // Your code here
     const event = new Date(date)
